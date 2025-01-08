@@ -8,6 +8,7 @@ I’m a data science enthusiast with a passion for uncovering insights through d
 
 ## Technical Skills
 - **Programming Languages:** Python, R, SQL
+- **Software:** Gurobi, RStudio, VSCode, Power Bi, Microsoft Office Package
 
 
 <!--
