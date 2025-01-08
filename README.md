@@ -6,6 +6,9 @@ I’m a data science enthusiast with a passion for uncovering insights through d
 - ⚡ Fun fact: I have a strong enthusiasm for sports, both participating in various activities and engaging in conversations about them
 - 📫 Connect with me: juan.ovallevega@mail.mcgill.ca
 
+## Technical Skills
+- **Programming Languages:** Python, R, SQL
+
 
 <!--
 **jdovalle10/jdovalle10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
