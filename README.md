@@ -3,7 +3,7 @@ I’m a data science enthusiast with a passion for uncovering insights through d
 
 - 💼 Work Experience: Banking and Business Consulting
 - 😄 Pronouns: He / him
-- ⚡ Fun fact: I have a strong enthusiasm for sports, both participating in various activities and engaging in conversations about them
+- ⚡ Fun fact: I have a deep passion for sports, whether it's actively participating in different athletic activities or engaging in lively discussions about them
 - 📫 Connect with me: juan.ovallevega@mail.mcgill.ca
 
 ## Technical Skills
